@@ -49,7 +49,7 @@ for tag in unecessary_tags:
 
 Church = "".join(lyrics)
 
-file = open('Church.', 'w')
+file = open('Church.txt', 'w')
 file.write(Church)
 file.close()
 
